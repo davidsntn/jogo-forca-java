@@ -1,12 +1,12 @@
 # 🔮 Jogo do Enforcado - Edição Tarô 🔮
 
-Bem-vindo ao Jogo do Enforcado, uma releitura mística do clássico Jogo da Forca! Este projeto back-end, desenvolvido em Java com Gradle, desafia você a desvendar palavras secretas retiradas diretamente do fascinante universo das cartas de tarô.
+Bem-vindo ao Jogo do Enforcado, uma releitura mística do clássico Jogo da Forca! Este projeto back-end, desenvolvido em Java com Gradle, desafia você a desvendar palavras secretas retiradas diretamente do universo das cartas de tarô.
 
 ---
 
 ## 📜 Descrição do Projeto
 
-Este é um projeto back-end que implementa a lógica do tradicional Jogo da Forca. A temática "Jogo do Enforcado" é uma referência à carta de mesmo nome do tarô, e todas as palavras secretas do jogo são nomes de arcanos maiores, arcanos menores ou outros conceitos do tarô, tornando cada partida uma experiência única e esotérica.
+Este é um projeto back-end que implementa a lógica do tradicional Jogo da Forca. A temática "Jogo do Enforcado" é uma referência à carta de mesmo nome do tarô, e todas as palavras secretas do jogo são nomes de arcanos maiores, arcanos menores ou outros conceitos do tarô, tornando cada partida uma experiência única e interessante.
 
 ---
 
